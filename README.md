@@ -13,5 +13,7 @@ pip install seaborn
 # Key-Points
 * Just use any kind of data or use my data what i provided to you, do some plotting and grab some information.
 * No need to memories all,When you have data and you know which kind of plot is good to go,then after mentioning that plot just type shift+tab, then you get to know what kind of parameters you can pass.
+# Documents 
+* All documents are available here itslef- https://github.com/Jyotiranjan404/Data-visualization-With-Seaborn
 # Enjoy this content
 ![39822640-learn-practice-improve-text-written-on-notebook-page-red-pencil-on-the-right-motivational-concept-im](https://user-images.githubusercontent.com/84494071/130019964-e2af8662-f0f2-4548-b807-e9eee5a42921.jpg)
